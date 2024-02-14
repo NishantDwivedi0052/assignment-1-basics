@@ -5,3 +5,5 @@ int b = 5;
 a++, b--;
 cout << ++a << " " << b--;
 }
+<img width="616" alt="Screenshot 2024-02-14 174047" src="https://github.com/NishantDwivedi0052/assignment-1-basics/assets/159905788/8a0609f8-de42-4c9e-84f4-f59d8e03f704">
+
